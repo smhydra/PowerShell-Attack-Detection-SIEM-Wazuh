@@ -14,7 +14,7 @@ This project simulates real-world **PowerShell-based fileless attacks** and **Li
 
 The goal is to replicate a Tier 1 SOC analyst workflow: understand the attack, observe the telemetry, triage the alert, and document findings — all mapped to the **MITRE ATT&CK framework**.
 
-> 💡 This is Project 2 in my SOC Analyst home lab series. [View Project 1 → SMB Brute Force Detection](https://github.com/munazajamil/SOC-SMB-Bruteforce-Detection)
+
 
 ---
 
