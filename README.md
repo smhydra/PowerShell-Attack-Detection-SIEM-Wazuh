@@ -155,12 +155,7 @@ See full mapping → [MITRE-mapping.md](MITRE-mapping.md)
 
 ## 👩‍💻 Author
 
-**Munnaza Jamil** — Aspiring SOC Analyst  
-Self-learning cybersecurity | Blue Team focused | Based in Pakistan
+**Manas Ranjan Sarangi** — Aspiring SOC Analyst  
+Self-learning cybersecurity | Blue Team focused 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-munazajamil-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/munazajamil)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-munaza.jamil01-red?style=flat)](https://tryhackme.com/p/munaza.jamil01)
-[![GitHub](https://img.shields.io/badge/GitHub-munazajamil-181717?style=flat&logo=github)](https://github.com/munazajamil)
-[![Blog](https://img.shields.io/badge/Blog-munazajameel.site-orange?style=flat)](https://munazajameel.site/blog)
 
----
